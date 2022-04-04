@@ -1,4 +1,4 @@
-# movieql
+# [movieql](https://nomadcoders.co/graphql-for-beginners/lobby)
 Movie API with Graphql
 ## install
 ```
